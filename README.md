@@ -45,9 +45,5 @@ You can download the latest release here:
 - **Conflicts with other extensions:** Temporarily disable other Youtube-related extensions to check compatibility.
 - **Fell free to open an issue if you need:** Click issues and open one
 
-## GoodTube simularity 
-
-- This adblocker uses a similar technique as goodtube, but it has differences. You can use which ever you like to use. This is just without some menus, short deletion, etc.
-- Similar launcher for best compatibility.
 ---
   
